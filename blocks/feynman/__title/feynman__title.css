@@ -1,0 +1,9 @@
+.feynman__title {
+  margin: 0;
+  width: 648px;
+  font-family: 'Inter', 'Arial', sans-serif;
+  font-size: 120px;
+  font-weight: 600;
+  line-height: 1.15;
+  text-align: center;
+}
