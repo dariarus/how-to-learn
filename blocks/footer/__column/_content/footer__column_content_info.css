@@ -1,5 +1,4 @@
-.feynman__content {
+.footer__column_content_info {
   display: flex;
   flex-direction: column;
-  align-items: center;
 }
